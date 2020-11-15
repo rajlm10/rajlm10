@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/raj-sangani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="raj-sangani" height="30" width="40" /></a>
+<a href="linkedin.com/in/raj-sangani-85305a196 " target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="raj-sangani" height="30" width="40" /></a>
 <a href="https://instagram.com/rajsang10" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rajsang10" height="30" width="40" /></a>
 </p>
 
