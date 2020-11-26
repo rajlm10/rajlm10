@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Machine-Learning**
 
-- 📫 How to reach me **rajbsangani@gmail.com**
+- 📫 How to reach me **https://rajsangani.me/#contact**
 
 - ⚡ Fun fact **I don't miss a single Manchester United game**
 
