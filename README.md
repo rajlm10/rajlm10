@@ -52,9 +52,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajlm10&show_icons=true&locale=en" alt="rajlm10" /></p>
 
-<h3 align="left">Here's some inpiration, have a nice day! </h3>
-![Quote](https://github-readme-quotes.herokuapp.com/quote)
-
 
 <h3 align="left">Don't forget to have fun </h3>
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
