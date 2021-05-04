@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Raj Sangani</h1>
 <h3 align="center">Love exploring new trends in Machine-Learning and Deep-Learning</h3>
 
+![Hi, I'm Raj 👋 I'm a computer engineer 🚀 I ❤️ Machine Learning ❤️](https://github.com/matyo91/matyo91/raw/main/assets/github.gif)
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajlm10&label=Profile%20views&color=0e75b6&style=flat" alt="rajlm10" /> </p>
 
 - 🔭 I’m currently working on [Short-and-Sweet](https://github.com/rajlm10/Short-and-Sweet)
