@@ -15,6 +15,12 @@
 
 - ⚡ Fun fact **I don't miss a single Manchester United game**
 
+-- ⚡ Check out my Medium **I blog occasionally*
+
+[![Raj Sangani Medium](https://github-readme-medium.vercel.app/?username=rajbsangani)](https://rajbsangani.medium.com/)
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/raj-sangani-85305a196/ " target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="raj-sangani" height="30" width="40" /></a>
