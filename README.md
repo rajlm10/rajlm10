@@ -56,5 +56,5 @@
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 <h3 align="left">Here's some inpiration, have a nice day! </h3>
-![Quote](https://github-readme-quotes.herokuapp.com/quote)
+[Quote](https://github-readme-quotes.herokuapp.com/quote)
 
