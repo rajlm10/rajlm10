@@ -53,7 +53,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajlm10&show_icons=true&locale=en" alt="rajlm10" /></p>
 
 
-<h3 align="left">Don't forget to have fun </h3>
+<h3 align="left">Don't forget to have fun! </h3>
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 
