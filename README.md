@@ -53,7 +53,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajlm10&show_icons=true&locale=en" alt="rajlm10" /></p>
 
 <h3 align="left">Some inspiration</h3>
-![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)]
 
 
 
