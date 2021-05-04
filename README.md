@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I don't miss a single Manchester United game**
 
--- ⚡ Check out my Medium **I blog occasionally**
+- ⚡ Check out my Medium **I blog occasionally**
 
 **Here's my latest blog**
 
