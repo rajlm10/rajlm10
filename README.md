@@ -15,7 +15,9 @@
 
 - ⚡ Fun fact **I don't miss a single Manchester United game**
 
--- ⚡ Check out my Medium **I blog occasionally*
+-- ⚡ Check out my Medium **I blog occasionally**
+
+**Here's my latest blog**
 
 [![Raj Sangani Medium](https://github-readme-medium.vercel.app/?username=rajbsangani)](https://rajbsangani.medium.com/)
 
