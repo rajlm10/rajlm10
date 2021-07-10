@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajlm10&label=Profile%20views&color=0e75b6&style=flat" alt="rajlm10" /> </p>
 
-- 🔭 I’m currently working on [Short-and-Sweet](https://github.com/rajlm10/Short-and-Sweet)
+- 🔭 I’m currently working on [Chandler](https://github.com/rajlm10/Chandler)
 
-- 🌱 I’m currently learning **Trax**
+- 🌱 I’m currently learning **FASTAPI**
 
 - 💬 Ask me about **Machine-Learning**
 
