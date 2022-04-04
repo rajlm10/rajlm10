@@ -56,4 +56,5 @@
 <h3 align="left">Don't forget to have fun! </h3>
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
+<p align="center"> <img src="./gitartwork.svg" alt="rajlm10" /> </p>
 
