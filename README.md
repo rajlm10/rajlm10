@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajlm10&label=Profile%20views&color=0e75b6&style=flat" alt="rajlm10" /> </p>
 
-- 🔭 I’m currently working on [Chandler](https://github.com/rajlm10/Chandler)
+- 🔭 I’m currently working on [D2l-Torch](https://github.com/rajlm10/D2L-Torch)
 
 - 🌱 I’m currently learning **FASTAPI**
 
