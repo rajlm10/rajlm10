@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajlm10&label=Profile%20views&color=0e75b6&style=flat" alt="rajlm10" /> </p>
 
-- 🔭 I’m currently working on [D2l-Torch](https://github.com/rajlm10/D2L-Torch)
+- 🔭 I’m currently working on [Dreambooth + LoRA Adapter Merging](https://github.com/rajlm10/dreambooth_lora_merging)
 
-- 🌱 I’m currently learning **FASTAPI**
+- 🌱 I’m currently learning **Diffusion**
 
 - 💬 Ask me about **Machine-Learning**
 
