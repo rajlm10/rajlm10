@@ -48,9 +48,6 @@
  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajlm10&show_icons=true&locale=en&layout=compact" alt="rajlm10" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajlm10&show_icons=true&locale=en" alt="rajlm10" /></p>
 
 
 <h3 align="left">Don't forget to have fun! </h3>
